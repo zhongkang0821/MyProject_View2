@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyProject_View2</string>
+    <string name="text">凤姐</string>
+    <integer name="count">6</integer>
+</resources>
